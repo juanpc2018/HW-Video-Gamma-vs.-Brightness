@@ -68,6 +68,9 @@ looks pale, unsaturated.
 for example in this video:
 https://youtu.be/EgqUJOudrcM?t=26
 
+One of the reasons is Backlight using White LEDs, instead of True RGB LEDs.
+Emulating that color is very difficult.
+
 In Profesional Cinema Lights, Light Quality is measured in CRI Color Rendering Index,
 usually LED are Not prefered in Professional environments because the Low CRI index, Low stability with temperature.
 Tungsten lapms CRI 99% 
