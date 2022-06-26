@@ -17,7 +17,10 @@ The best way to set Brightness level is usually looking a video with a Black Bac
 if the Dark background becomes visible Brigtness setting is too much.
 
 LED BackLight setting also depends if viewed in Dark Room or Day Light.
-Eco Mode usually lowers/limits BackLight.
+Eco Mode usually limits BackLight.
+
+Some Tvs / Monitors have Side BackLight,
+this is for True BackLight, No Side-Light Panels.
 
 ¿what does Gamma setting have to do with all this...?
 Most people set Gamma at 0 and forget about it, but when is a true HW Gamma,
