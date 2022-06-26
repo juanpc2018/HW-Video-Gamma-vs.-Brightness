@@ -62,3 +62,14 @@ feeling very unrealistic, very unnatural.
 If you want more real image with the LED TV you already have, Now you know.
 If you want to avoid the Eye pain in some scenes,
 a less drastic settings like -1 Gamma and +5% Brightness, can also work, but realism effect will be reduced.
+
+P.D. Another problem with low quality LED LCD panels like TN, is the Violet / Purple color,
+looks pale, unsaturated.
+for example in this video:
+https://www.youtube.com/watch?v=EgqUJOudrcM
+
+In Profesional Cinema Lights, Light Quality is measured in CRI Color Rendering Index,
+usually LED are Not prefered in Professional environments because the Low CRI index, Low stability with temperature.
+Tungsten lapms CRI 99% 
+KinoFlo CFL's CRI 92%-95%
+LED with high CRI price is much higher than standard LED, because the doping chemical required, same as CFL's.
