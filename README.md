@@ -1,0 +1,1 @@
+# HW-Video-Gamma-vs.-Brightness
