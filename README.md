@@ -56,9 +56,9 @@ does Not cause pain to the Eyes if the area is Not Big Enough, like a Window loo
 
 Software Gamma is very different, and limited by real HW Gamma. Useless for this purpose.
 
-Increasing Gamma +2 and reduce Brightness -10% to 20% will comprees the dynamic-range of the light, making the opposite effect, 
+Increasing Gamma +2 and reduce Brightness -10% to 20% will compress the dynamic-range of the light, making the opposite effect, 
 feeling very unrealistic, very unnatural.
 
 If you want more real image with the TV you already have, Now you know.
-If you want to avoud the Eye pain in some scenes,
+If you want to avoid the Eye pain in some scenes,
 a less drastic settings like -1 Gamma and +5% Brightness, can also work.
