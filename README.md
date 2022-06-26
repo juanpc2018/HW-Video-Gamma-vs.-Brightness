@@ -66,7 +66,7 @@ a less drastic settings like -1 Gamma and +5% Brightness, can also work, but rea
 P.D. Another problem with low quality LED LCD panels like TN, is the Violet / Purple color,
 looks pale, unsaturated.
 for example in this video:
-https://www.youtube.com/watch?v=EgqUJOudrcM
+https://youtu.be/EgqUJOudrcM?t=26
 
 In Profesional Cinema Lights, Light Quality is measured in CRI Color Rendering Index,
 usually LED are Not prefered in Professional environments because the Low CRI index, Low stability with temperature.
