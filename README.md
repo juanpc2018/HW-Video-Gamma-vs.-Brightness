@@ -61,4 +61,4 @@ feeling very unrealistic, very unnatural.
 
 If you want more real image with the TV you already have, Now you know.
 If you want to avoid the Eye pain in some scenes,
-a less drastic settings like -1 Gamma and +5% Brightness, can also work.
+a less drastic settings like -1 Gamma and +5% Brightness, can also work, but realism effect will be reduced.
