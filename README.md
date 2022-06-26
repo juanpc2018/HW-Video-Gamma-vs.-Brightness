@@ -59,6 +59,6 @@ Software Gamma is very different, and limited by real HW Gamma. Useless for this
 Increasing Gamma +2 and reduce Brightness -10% to 20% will compress the dynamic-range of the light, making the opposite effect, 
 feeling very unrealistic, very unnatural.
 
-If you want more real image with the TV you already have, Now you know.
+If you want more real image with the LED TV you already have, Now you know.
 If you want to avoid the Eye pain in some scenes,
 a less drastic settings like -1 Gamma and +5% Brightness, can also work, but realism effect will be reduced.
