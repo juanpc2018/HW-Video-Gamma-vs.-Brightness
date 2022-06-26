@@ -31,7 +31,7 @@ IF HW Gamma is set to -2,
 Brigtness level can be increased +10%, near 50%.
 image will look similar, but will have a very interesting side-effect.
 
-Allows bright lights spots in the image to become brighter, have a higher dynamic range, 
+Allows bright lights spots in the image to become brighter, to have a higher dynamic range, 
 like Real Life,
 if you measure Sun Light with a HW Lux Lumen Meter,
 you will see light can change drastically from 1000 lumens, "the lowerst" for a small CCD/CMOS sensor camera.
